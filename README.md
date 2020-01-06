@@ -1,7 +1,7 @@
 # oasis-open-project
 Everything related to the Ethereum Open Standards Project on OASIS
 
-The Ethereum OASIS Open Project is an [OASIS Open Project](http://oasis-open-projects.org/) that exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Ethereum OASIS Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
+The Ethereum OASIS Open Project is an [OASIS Open Project](http://oasis-open-projects.org/) that exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate the longevity, interoperability, and ease of integration for the world's largest programmable blockchain. The Ethereum OASIS Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
 
 For more information on the goals of this effort, see the [project charter](./PROJECT_CHARTER.md). 
 
